@@ -1,1 +1,2 @@
-test line from b1
+test line from b1 + b2
+
